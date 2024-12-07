@@ -44,6 +44,39 @@ This dataset examines factors influencing the uptake of the **seasonal flu vacci
 - **Older individuals** and those with **chronic conditions** are more likely to be vaccinated.
 - **Health workers** and individuals with **positive vaccine views** also show higher uptake.
 
+## Model Evaluation Summary
+
+### 1. Baseline Model
+- **Accuracy**: 45.81%
+- **Precision**: 45.81%
+- **Recall**: 100%
+- **F1-Score**: 62.84%
+- **Insights**: The baseline model predicts the positive class (vaccine recipients) with high recall but poor precision, providing limited insights.
+
+### 2. Logistic Regression
+- **Accuracy**: 80.7%
+- **Precision**: 80.6%
+- **Recall**: 76.0%
+- **F1-Score**: 78.3%
+- **ROC AUC**: 0.876
+- **Insights**: A strong performer with balanced precision and recall, and high ROC AUC, indicating good predictive power.
+
+### 3. Decision Trees
+- **Accuracy**: 77.5%
+- **Precision**: 77.3%
+- **Recall**: 72.0%
+- **F1-Score**: 74.6%
+- **ROC AUC**: 0.849
+- **Insights**: Slightly lower accuracy and recall compared to Logistic Regression, but with good precision and a respectable ROC AUC.
+
+### 4. Random Forest
+- **Accuracy**: 80.1%
+- **Precision**: 79.2%
+- **Recall**: 76.8%
+- **F1-Score**: 78.0%
+- **ROC AUC**: 0.874
+- **Insights**: Performs similarly to Logistic Regression, with slightly higher precision, and a competitive ROC AUC score.
+
 
 
 
