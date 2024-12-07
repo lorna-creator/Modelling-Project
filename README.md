@@ -5,12 +5,12 @@
 ## **Business Understanding**
 
 ### ***Problem Statement***
+In this project, I am tackling a predictive modeling problem related to the uptake of the seasonal flu vaccine. Specifically,trying to predict whether individuals will take the seasonal flu vaccine based on various features (such as demographics, socioeconomic factors, and behaviors).
 
-Vaccination is a cornerstone of public health, playing a critical role in the prevention and control of infectious diseases. While vaccines offer individual protection through immunity and contribute to community-wide protection via herd immunity, there is limited understanding of the complex factors that influence vaccine uptake. These factors include socioeconomic status, behavioral patterns, demographic background, and individuals' perceptions and knowledge about both the illness and the vaccine itself.
+The business issue here is to improve the vaccination rates within a population by identifying individuals who are likely to get vaccinated (or not). This is especially important for healthcare organizations, insurance companies, or public health initiatives aiming to increase vaccination coverage to reduce the spread of seasonal flu. By understanding the factors that contribute to vaccine uptake, organizations can create targeted interventions that encourage more individuals to get vaccinated, thereby improving public health outcomes and reducing healthcare costs related to flu-related illnesses.
 
-Understanding how these factors interact to affect vaccine acceptance is essential for policymakers and public health officials. Insights into these influences can help inform the development of targeted interventions, communication strategies, and educational campaigns aimed at increasing vaccination coverage. Additionally, vaccine manufacturers can leverage this information to forecast demand more accurately and optimize production, particularly in response to outbreaks or pandemics.
-
-Given the global importance of vaccination in preventing infectious diseases, this research aims to evaluate the influence of various factors on the uptake of vaccines, with a focus on seasonal flu vaccines. By exploring the socioeconomic, behavioral, and demographic factors, as well as individuals' knowledge, attitudes, and perceptions towards flu vaccines, this study seeks to provide actionable insights that can guide policy and improve public health outcomes.
+## **Main Objective**
+The goal of this project is to develop a predictive model to estimate seasonal flu vaccine uptake
 
 ### ***Objectives***
 This project aims to explore various factors influencing individuals' decisions to receive the seasonal flu vaccine. The following objectives are addressed:
