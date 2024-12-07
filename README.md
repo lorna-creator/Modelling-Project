@@ -39,8 +39,7 @@ This dataset examines factors influencing the uptake of the **seasonal flu vacci
 1. **Vaccine Uptake**: The distribution is balanced with 12,435 vaccinated and 14,272 unvaccinated individuals.
 2. **Demographics**: Older adults (65+), individuals with chronic diseases, and health workers show higher vaccine uptake. Education and income have weak correlations.
 3. **Behavioral & Attitudinal Factors**: Preventive behaviors (mask-wearing, hand-washing) and positive vaccine opinions increase uptake.
-
-## Key Findings:
+TO Note:
 - **Older individuals** and those with **chronic conditions** are more likely to be vaccinated.
 - **Health workers** and individuals with **positive vaccine views** also show higher uptake.
 
