@@ -1,5 +1,5 @@
 
-# **VACCINE UPTAKE ANALYSIS**
+# **VACCINE UPTAKE PREDICTION ANALYSIS**
 
 ![image](https://github.com/user-attachments/assets/17449ccc-4b5f-487c-94b3-98b05342c6ab)
 
