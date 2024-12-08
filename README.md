@@ -81,7 +81,20 @@ TO Note:
 - **ROC AUC**: 0.874
 - **Insights**: Performs similarly to Logistic Regression, with slightly higher precision, and a competitive ROC AUC score.
 
+![alt text](image-1.png)
 
+## **Conclusion and Recommendations**
+The baseline model shows limited practical value, while the logistic regression and random forest models exhibit strong predictive accuracy. The random forest model is the best performer overall.
+
+Recommendations:
+
+Target at-risk individuals with personalized communication to improve vaccination rates.
+
+Design tailored interventions, such as educational campaigns.
+
+Efficiently allocate resources to segments less likely to get vaccinated.
+
+Continuously monitor and retrain the random forest model with new data for accuracy.
 
 
 
