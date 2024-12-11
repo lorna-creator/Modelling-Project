@@ -79,12 +79,12 @@ TO Note:
 - **Recall**: 76.8%
 - **F1-Score**: 78.0%
 - **ROC AUC**: 0.874
-- **Insights**: Performs similarly to Logistic Regression, with slightly higher precision, and a competitive ROC AUC score.
+- Closely relates to the Logistic regression
 
 ![alt text](image-1.png)
 
 ## **Conclusion and Recommendations**
-The baseline model shows limited practical value, while the logistic regression and random forest models exhibit strong predictive accuracy. The random forest model is the best performer overall.
+The baseline model shows limited practical value, while the logistic regression and random forest models exhibit strong predictive accuracy. The logistic regession is the best performer overall
 
 Recommendations:
 
